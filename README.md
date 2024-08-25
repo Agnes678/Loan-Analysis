@@ -46,7 +46,6 @@ Through MS Excel the cleaning processes I went through to prepare the data are a
 - Sum of applicant income by property area.
 - Sum of applicant income by education
 - Sum of applicant income by self employment
-- Loan amount approved by property area
 - Loan Amount by marital status
 - Average loan amount by dependents
 
